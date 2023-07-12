@@ -2,6 +2,8 @@
 
 a repository with a bunch of commands and stuff to help setup minecraft servers easily and quickly
 
+## Basic Server Setup
+
 ### Install Java (17)
 
 ```
@@ -25,7 +27,7 @@ java -jar <filename>.jar
 ### Download start.sh
 
 ```
-wget
+wget https://raw.githubusercontent.com/Imabanana80/Minecraft-Server-Setup/main/files/start.sh
 ```
 
 ### Install Screen
