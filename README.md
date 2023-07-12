@@ -1,6 +1,6 @@
 # Minecraft Server Setup Stuff
 
-A useful repo with a bunch of stuff to help setup minecraft servers on ubuntu (uses screen)
+a repository with a bunch of commands and stuff to help setup minecraft servers easily and quickly
 
 ### Install Java (17)
 
@@ -20,6 +20,12 @@ wget <download url from above>
 
 ```
 java -jar <filename>.jar
+```
+
+### Download start.sh
+
+```
+wget
 ```
 
 ### Install Screen
